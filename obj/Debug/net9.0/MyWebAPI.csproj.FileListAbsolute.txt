@@ -25,7 +25,6 @@ C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.MyWebAPI.p
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyWebAPI.props
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyWebAPI.props
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\MyWebAPI.csproj.Up2Date
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\MyWebAPI.dll
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\refint\MyWebAPI.dll
@@ -94,3 +93,4 @@ C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
 C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
 C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\USER\MyWebAPI\obj\Debug\net9.0\MyWebAPI.sourcelink.json
