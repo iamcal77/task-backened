@@ -28,5 +28,11 @@
     "Question": "hey",
     "Answer": "Hello! How can I assist you today?",
     "Timestamp": "2025-04-18T15:37:54.246765Z"
+  },
+  {
+    "Id": 9,
+    "Question": "Hey",
+    "Answer": "Sorry, something went wrong while fetching the response from ChatGPT.",
+    "Timestamp": "2025-04-18T15:59:03.2943737Z"
   }
 ]

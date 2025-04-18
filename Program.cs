@@ -6,8 +6,11 @@ using Microsoft.OpenApi.Models;
 using MyWebAPI.Data;
 using MyWebAPI.Services;
 using System.Text;
+using DotNetEnv;
+
 
 var builder = WebApplication.CreateBuilder(args);
+Env.Load();
 
 builder.Configuration["OpenAI:ApiKey"] = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 

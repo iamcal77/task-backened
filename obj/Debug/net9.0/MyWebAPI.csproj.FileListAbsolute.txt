@@ -94,3 +94,6 @@ C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstrac
 C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
 C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\USER\MyWebAPI\obj\Debug\net9.0\MyWebAPI.sourcelink.json
+C:\Users\USER\MyWebAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\MyWebAPI\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\USER\MyWebAPI\bin\Debug\net9.0\Sprache.dll
