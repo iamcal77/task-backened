@@ -9,7 +9,7 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var openAiApiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
+builder.Configuration["OpenAI:ApiKey"] = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 
 
 
