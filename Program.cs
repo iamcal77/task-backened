@@ -9,6 +9,7 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var openAiApiKey = Environment.GetEnvironmentVariable("OPENAI_API_KEY");
 
 
 
@@ -23,14 +24,13 @@ builder.Services.AddCors(options =>
         policy =>
         {
             policy.WithOrigins(
-                "http://localhost:3000",
-                "https://noones-03tu.onrender.com/"
+                "http://localhost:3000",               // Local development
+                "https://noones-03tu.onrender.com"     // Frontend URL without trailing slash
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
         });
 });
-
 
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
