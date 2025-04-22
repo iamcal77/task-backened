@@ -32,7 +32,8 @@ builder.Services.AddCors(options =>
                 "https://task-fronend.onrender.com"
             )
             .AllowAnyHeader()
-            .AllowAnyMethod();
+            .AllowAnyMethod()
+            .AllowCredentials();
         });
 });
 
