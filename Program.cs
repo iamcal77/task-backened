@@ -28,7 +28,8 @@ builder.Services.AddCors(options =>
         {
             policy.WithOrigins(
                 "http://localhost:3000",               // Local development
-                "https://noones-03tu.onrender.com"     // Frontend URL without trailing slash
+                "https://noones-03tu.onrender.com",
+                "https://task-fronend.onrender.com/"
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
