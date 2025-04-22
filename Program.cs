@@ -29,7 +29,7 @@ builder.Services.AddCors(options =>
             policy.WithOrigins(
                 "http://localhost:3000",               // Local development
                 "https://noones-03tu.onrender.com",
-                "https://task-fronend.onrender.com/"
+                "https://task-fronend.onrender.com"
             )
             .AllowAnyHeader()
             .AllowAnyMethod();
